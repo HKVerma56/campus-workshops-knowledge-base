@@ -1,4 +1,4 @@
-# campus-workshops-knowledge-base
+# campus-workshops-knowledge-base - Harshit Kant Verma
 
 Knowledge Base for Campus Workshops
 
